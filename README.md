@@ -1,5 +1,9 @@
 # 609栄東A日程 理科
 
+2025 A日程
+
+https://github.com/hironarin-mnc/609sakaehigashi-rika/blob/main/sakaehigashi-rika-2025
+
 四谷大塚過去問データ
 2025
 
