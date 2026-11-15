@@ -2,6 +2,8 @@
 
 2025 A日程
 
+1/10 （理社あわせて50分）
+
 https://github.com/hironarin-mnc/609sakaehigashi-rika/blob/main/sakaehigashi-rika-2025
 
 四谷大塚過去問データ
