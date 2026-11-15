@@ -4,7 +4,7 @@
 
 1/10 （理社あわせて50分）
 
-https://github.com/hironarin-mnc/609sakaehigashi-rika/blob/main/sakaehigashi-rika-2025
+https://github.com/hironarin-mnc/609sakaehigashi-rika/blob/main/sakaehigashi-rika-2025.md
 
 四谷大塚過去問データ
 2025
