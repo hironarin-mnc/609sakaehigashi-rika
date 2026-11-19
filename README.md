@@ -1,5 +1,8 @@
 # 609栄東A日程 理科
 
+https://www.sakaehigashi.ed.jp/exam/j_event.html
+過去問はなし
+
 2025 A日程
 
 1/10 （理社あわせて50分）
