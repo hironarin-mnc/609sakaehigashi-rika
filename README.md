@@ -47,6 +47,10 @@ https://github.com/hironarin-mnc/243shiba_kokusai-rika.git
 
 https://github.com/hironarin-mnc/78syouei_jyoshi_gakuin-rika/
 
+176青稜中学校
+
+https://github.com/hironarin-mnc/176seiryo-rika.git
+
 #### た
 177東洋大学京北中学校
 
